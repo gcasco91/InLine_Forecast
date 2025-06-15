@@ -1,0 +1,44 @@
+# Entornos virtuales
+venv/
+.env
+*.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Cachés y temporales de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.p~*
+*.tmp
+*.bak
+*.swp
+
+# Checkpoints de notebooks
+.ipynb_checkpoints/
+
+# Configuraciones de IDEs
+.vscode/
+.idea/
+
+# Archivos de datos
+data/raw/
+data/processed/*.csv
+!data/processed/estructura_base.csv  # Mantener archivo base si es necesario
+
+# Modelos y serializaciones
+models/
+*.pkl
+*.joblib
+
+# Archivos generados
+*.log
+*.xlsx
+*.html
+
+# Archivos de configuración de Streamlit
+.streamlit/config.toml
