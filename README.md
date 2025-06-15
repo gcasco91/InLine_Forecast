@@ -5,7 +5,7 @@ Es una herramienta de inteligencia operativa desarrollada como proyecto final de
 Su propósito es mejorar la planificación de recursos en contact centers a través de modelos de predicción del volumen de llamadas y estimación de los recursos humanos necesarios utilizando la fórmula de Erlang C.
 
 
-## Link app: Network URL: http://192.168.1.130:8501
+### Link app: https://inlineforecast-gvzd7ehavg89gatvjrwavq.streamlit.app/
 
 ---
 
